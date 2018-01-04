@@ -7,4 +7,10 @@
     <string name="password">Password</string>
     <string name="password_hint">password</string>
     <string name="switchMsg">What does this do?</string>
+    <string name="defaultEmail">example@domain.com</string>
+    <string name="savedEmail"></string>
+    <string name="dialog_message">Would you like to finish this activity?</string>
+    <string name="dialog_title"> </string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
 </resources>
